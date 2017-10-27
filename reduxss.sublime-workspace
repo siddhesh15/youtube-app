@@ -1,0 +1,1414 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vide",
+				"videoSearch"
+			],
+			[
+				"se",
+				"SearchBar"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"cu",
+				"cur\tcursor: ${pointer};"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"on",
+				"onVideoSelect"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"V",
+				"VideoDetail"
+			],
+			[
+				"Vide",
+				"VideoListItem"
+			],
+			[
+				"R",
+				"ReactDOM"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"col",
+				"col-sm-12"
+			],
+			[
+				"col-",
+				"col-xs-12"
+			],
+			[
+				"in",
+				"initial"
+			],
+			[
+				"head",
+				"header-actor"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"hide",
+				"hidden-xs"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"f",
+				"form\tTag"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"fur",
+				"furniture"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"fff",
+				"ffffff"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"row",
+				"row2"
+			],
+			[
+				"cs",
+				"csv"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"prod",
+				"product_id"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"strt",
+				"strtolower"
+			],
+			[
+				"js",
+				"json_decode"
+			],
+			[
+				"home",
+				"Homepage"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"tex",
+				"text3"
+			],
+			[
+				"sect",
+				"section"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"ele",
+				"elseif\telseif …"
+			],
+			[
+				"api",
+				"api_url"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"array_u",
+				"array_unique"
+			],
+			[
+				"get",
+				"get_data"
+			],
+			[
+				"sort",
+				"sort_order"
+			],
+			[
+				"jso",
+				"jsonObject3"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"pr",
+				"product_details"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"ca",
+				"category_id"
+			],
+			[
+				"sq",
+				"sql1"
+			],
+			[
+				"nae",
+				"name"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"new",
+				"new_arr"
+			],
+			[
+				"arra",
+				"array_diff"
+			],
+			[
+				"post",
+				"position"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"col-sm",
+				"col-sm-12"
+			],
+			[
+				"col-lg",
+				"col-lg-12"
+			],
+			[
+				"compa",
+				"company"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"ce",
+				"centerAlign"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"stye",
+				"styles"
+			],
+			[
+				"chat",
+				"ChatScreen"
+			],
+			[
+				"qu",
+				"query3"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"Store",
+				"Store_review"
+			],
+			[
+				"approve",
+				"approveComment"
+			],
+			[
+				"account",
+				"account_model"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"revi",
+				"review_id"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"store",
+				"store_id"
+			],
+			[
+				"_",
+				"_blank"
+			],
+			[
+				"not",
+				"notifications"
+			],
+			[
+				"sc",
+				"sc_count"
+			],
+			[
+				"notifications",
+				"notifications_status"
+			],
+			[
+				"pa",
+				"payments_completed_json"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"txe",
+				"text-green"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"th",
+				"threads"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"prit",
+				"print_r"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"k",
+				"key"
+			],
+			[
+				"ta",
+				"table-responsive"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"col-xs",
+				"col-xs-12"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"b",
+				"base_url"
+			],
+			[
+				"has",
+				"has-children"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"cos",
+				"console"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"RE",
+				"REQUEST_URI"
+			],
+			[
+				"parse",
+				"parse_url"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"use",
+				"user_meta"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"seo",
+				"seoUser"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"prin",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 474,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/video_detail.js",
+			"settings":
+			{
+				"buffer_size": 556,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/index.js",
+			"settings":
+			{
+				"buffer_size": 993,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/search_bar.js",
+			"settings":
+			{
+				"buffer_size": 622,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/video_list.js",
+			"settings":
+			{
+				"buffer_size": 385,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style/style.css",
+			"settings":
+			{
+				"buffer_size": 321,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/video_list_item.js",
+			"settings":
+			{
+				"buffer_size": 516,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 341.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Format ",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"phpfmt",
+				"CodeFormatter: Show PHP Transformations"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			]
+		],
+		"width": 526.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+			"which linter",
+			"hash -r",
+			"phpfmt:format now",
+			"format now",
+			"phpfmt: format now"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/ReduxSimpleStarter",
+		"/var/www/html/ReduxSimpleStarter/src",
+		"/var/www/html/ReduxSimpleStarter/src/components",
+		"/var/www/html/ReduxSimpleStarter/style"
+	],
+	"file_history":
+	[
+		"/var/www/html/ReduxSimpleStarter/src/components/search_bar.js",
+		"/var/www/html/ReduxSimpleStarter/src/components/video_list.js",
+		"/var/www/html/ReduxSimpleStarter/src/components/video_list_item.js",
+		"/var/www/html/ReduxSimpleStarter/src/components/video_detail.js",
+		"/var/www/html/ReduxSimpleStarter/src/components/app.js",
+		"/home/siddhesh/Documents/fd/Hosting Details - Godaddy",
+		"/home/siddhesh/Documents/readme.txt",
+		"/var/www/html/bollywoodfurniture/catalog/view/theme/furniturestore/template/common/home.tpl",
+		"/var/www/html/bollywoodfurniture/catalog/view/theme/furniturestore/template/product/product.tpl",
+		"/var/www/html/bollywoodfurniture/catalog/view/theme/furniturestore/template/common/footer.tpl",
+		"/var/www/html/bollywoodfurniture/lift.php",
+		"/var/www/html/bollywoodfurniture/catalog/view/theme/furniturestore/stylesheet/atstyle.css",
+		"/var/www/html/bollywoodfurniture/system/config/default.php",
+		"/var/www/html/bollywoodfurniture/catalog/view/theme/default/stylesheet/stylesheet.css",
+		"/home/siddhesh/Documents/fd/Install Linux, Nginx, MySQL, PHP (LEMP stack) in Ubuntu 16.04",
+		"/var/www/html/bollywoodfurniture/backup/atstyle.css",
+		"/var/www/html/bollywoodfurniture/system/.htaccess",
+		"/var/www/html/bollywoodfurniture/config.php",
+		"/var/www/html/bollywoodfurniture/admin/config.php",
+		"/var/www/html/bollywoodfurniture/catalog/controller/common/footer.php",
+		"/var/www/html/bollywoodfurniture/system/library/cache/memcached.php",
+		"/var/www/html/bollywoodfurniture/.gitignore",
+		"/var/www/html/bollywoodfurniture/backup/file_paths",
+		"/var/www/html/bollywoodfurniture/catalog/view/javascript/common.js",
+		"/var/www/html/bollywoodfurniture/backup/common.js",
+		"/var/www/html/bollywoodfurniture/map.html",
+		"/home/siddhesh/Documents/bollywood_furniture",
+		"/home/siddhesh/Desktop/todays_work",
+		"/var/www/html/bollywoodfurniture/catalog/view/theme/furniturestore/template/common/header.tpl",
+		"/home/siddhesh/Desktop/test.html",
+		"/var/www/html/bollywoodfurniture/test.php",
+		"/var/www/html/bollywoodfurniture/catalog/view/theme/furniturestore/template/information/listing.tpl",
+		"/var/www/html/bollywoodfurniture/catalog/controller/information/listing.php",
+		"/var/www/html/bollywoodfurniture/catalog/language/en-gb/information/listing.php",
+		"/home/siddhesh/Documents/test.html",
+		"/var/www/html/bollywoodfurniture/.htaccess",
+		"/var/www/html/bollywoodfurniture/catalog/view/theme/furniturestore/template/information/contact.tpl",
+		"/home/siddhesh/Documents/fd/Database Server Details",
+		"/var/www/html/bollywoodfurniture/catalog/controller/product/search.php",
+		"/var/www/html/bollywoodfurniture/catalog/view/theme/furniturestore/template/product/compare.tpl",
+		"/var/www/html/bollywoodfurniture/catalog/view/theme/furniturestore/template/extension/module/atnewsletters.tpl",
+		"/var/www/html/bollywoodfurniture/catalog/view/theme/furniturestore/template/extension/module/atslideshow.tpl",
+		"/var/www/html/bollywoodfurniture/catalog/view/theme/furniturestore/template/product/search.tpl",
+		"/home/siddhesh/Documents/fd/site_updated_details",
+		"/var/www/html/bollywoodfurniture/catalog/view/theme/furniturestore/template/extension/module/slideshow.tpl",
+		"/var/www/html/bollywoodfurniture/catalog/view/theme/furniturestore/template/extension/module/carousel.tpl",
+		"/var/www/html/bollywoodfurniture/catalog/view/theme/furniturestore/template/extension/module/banner.tpl",
+		"/var/www/html/bollywoodfurniture/catalog/view/theme/default/template/extension/module/slideshow.tpl",
+		"/var/www/html/bollywoodfurniture/catalog/view/theme/default/template/extension/module/carousel.tpl",
+		"/var/www/html/bollywoodfurniture/catalog/view/theme/default/template/extension/module/banner.tpl",
+		"/var/www/html/bf_live/admin/config.php",
+		"/var/www/html/bf_live/config.php",
+		"/var/www/html/bollywoodfurniture/catalog/view/theme/furniturestore/template/product/category.tpl",
+		"/var/www/html/bollywoodfurniture/algoliasearch-client-php-master/index.php",
+		"/var/www/html/bollywoodfurniture/algoliasearch-client-php-master/algoliasearch.php",
+		"/home/siddhesh/.config/sublime-text-3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/home/siddhesh/Documents/Siddhesh/SEO Best Practises",
+		"/var/www/html/bollywoodfurniture/catalog/controller/product/product.php",
+		"/var/www/html/bollywoodfurniture/catalog/view/theme/furniturestore/template/extension/captcha/basic_captcha.tpl",
+		"/home/siddhesh/Documents/fd/bollywoodfurniture.sublime-project",
+		"/var/www/html/bollywoodfurniture/catalog/language/en-gb/information/contact.php",
+		"/var/www/html/bollywoodfurniture/catalog/controller/information/contact.php",
+		"/var/www/html/bollywoodfurniture/catalog/model/catalog/product.php",
+		"/var/www/html/bollywoodfurniture/catalog/language/en-gb/account/account.php",
+		"/var/www/html/bollywoodfurniture/catalog/view/theme/furniturestore/template/account/account.tpl",
+		"/var/www/html/bollywoodfurniture/catalog/view/theme/furniturestore/template/extension/module/account.tpl",
+		"/var/www/html/bollywoodfurniture/product.php",
+		"/var/www/html/bollywoodfurniture/catalog/view/theme/default/template/extension/module/account.tpl",
+		"/var/www/html/bollywoodfurniture/catalog/model/tool/image.php",
+		"/var/www/html/bollywoodfurniture/system/storage/logs/error.log",
+		"/var/www/html/bollywoodfurniture/system/library/cache/file.php",
+		"/var/www/html/octest/system/library/cache/apc.php",
+		"/var/www/html/octest/system/library/cache/file.php",
+		"/var/www/html/octest/system/library/cache/mem.php",
+		"/var/www/html/octest/system/library/cache/memcached.php",
+		"/var/www/html/octest/system/library/cache/redis.php",
+		"/var/www/html/octest/system/library/cache.php",
+		"/var/www/html/octest/system/library/config.php",
+		"/var/www/html/bombay3/config.php",
+		"/home/siddhesh/Desktop/test.php",
+		"/var/www/html/bollywoodfurniture/product-export.csv",
+		"/home/siddhesh/Downloads/product-export - Sheet1.csv",
+		"/var/www/html/novak_digitalocean/novakhomes_newsite/wp-content/themes/blade/footer.php",
+		"/var/www/html/bombay3/homepage-preview.php",
+		"/var/www/html/bombay3/db-connection.php",
+		"/var/www/html/bollywoodfurniture/catalog/controller/extension/module/atproduct_tab.php",
+		"/var/www/html/bollywoodfurniture/catalog/language/en-gb/common/footer.php",
+		"/var/www/html/bollywoodfurniture/catalog/controller/product/category.php",
+		"/home/siddhesh/Downloads/acc_groups.rst",
+		"/home/siddhesh/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/siddhesh/.config/sublime-text-3/Packages/User/CodeFormatter.sublime-settings",
+		"/home/siddhesh/.config/sublime-text-3/Packages/User/HTMLBeautify.sublime-settings",
+		"/var/www/html/qspalon/wp-config.php",
+		"/var/www/html/jd/config.php",
+		"/var/www/html/devfurnituredekho/application/controllers/Team.php",
+		"/home/siddhesh/Documents/fd/sql_queries",
+		"/tmp/fz3temp-1/.htaccess",
+		"/var/www/html/bombay3/.htaccess",
+		"/tmp/fz3temp-1/footer.php",
+		"/var/www/html/bombay3/homepage-panel.php",
+		"/var/www/html/bombay3/homepage-edit.php",
+		"/var/www/html/bombay3/authentication.php",
+		"/var/www/html/bombay3/auth2.php",
+		"/var/www/html/bombay3/catalog/view/theme/OPC011/template/extension/module/category.tpl",
+		"/var/www/html/bombay3/catalog/controller/product/category.php",
+		"/var/www/html/bombay3/admin/controller/common/login.php",
+		"/var/www/html/bombay3/homepage-live.php",
+		"/var/www/html/bombay3/catalog/view/theme/OPC011/template/common/home.tpl",
+		"/var/www/html/bombay3/catalog/view/theme/OPC011/template/product/category.tpl",
+		"/var/www/html/bombay3/homepage-ajax.php",
+		"/var/www/html/bombay3/homepage-query.php",
+		"/var/www/html/bombay3/api.php",
+		"/home/siddhesh/Desktop/croppic/croppic.js",
+		"/var/www/html/bombay3/catalog/view/theme/OPC011/stylesheet/stylesheet.css",
+		"/var/www/html/bombay3/catalog/view/theme/default/template/checkout/checkout.tpl",
+		"/var/www/html/bombay3/catalog/model/account/customer.php",
+		"/var/www/html/bombay3/catalog/controller/checkout/register.php",
+		"/var/www/html/bombay3/admin/model/customer/customer.php",
+		"/home/siddhesh/Documents/fd/CHANGED_FILES",
+		"/var/www/html/bombay3/catalog/view/theme/OPC011/template/information/contact.tpl",
+		"/var/www/html/bombay3/catalog/view/theme/OPC011/template/common/header.tpl",
+		"/var/www/html/bombay3/catalog/view/theme/OPC011/template/common/footer.tpl",
+		"/var/www/html/bombay3/catalog/view/theme/OPC011/template/product/product.tpl",
+		"/var/www/html/bombay3/catalog/view/javascript/common.js",
+		"/var/www/html/bombay3/catalog/controller/checkout/cart.php",
+		"/home/siddhesh/.config/sublime-text-3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+		"/home/siddhesh/Documents/bombayarts.sublime-project",
+		"/home/siddhesh/Documents/bombayarts.sublime-workspace"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"className=\"\"",
+			"#logo img",
+			"#logo span",
+			"#menu i",
+			"fa-shopping-cart",
+			"#advanced-atnewsletter-box #mail-box",
+			"#logo span",
+			"body",
+			"cache_type",
+			".htmlcontentouter",
+			".promo-banner.space5 img",
+			"#search input",
+			"#search input[type=\"text\"]",
+			"#search input[type=text]",
+			"#search #search-clear",
+			"#search input.form-control.input-lg",
+			"#search #search-clear",
+			"li.myaccount_drp a",
+			"font-size: 110%;",
+			"htmlmodule1outer",
+			"header .navbar-nav > li > a",
+			"/conta",
+			"Our Location",
+			"prod",
+			"form-horizontal",
+			"#search #search-clear",
+			"#search",
+			"Subscribe to us",
+			"rajni.png",
+			"raj",
+			"autoPlay: 3000",
+			".owlCarousel",
+			"#Atslideshow0",
+			"Price",
+			"\\n\\n",
+			".header_right ul.list-inline li a",
+			"\\n\\n",
+			"advanced-atnewsletter-box",
+			"gabbu",
+			"footer",
+			"header",
+			"review",
+			"#tabs_info .nav > li.active > a",
+			".pro_static_content_main .pro_static_outer",
+			"#search input.form-control.input-lg, #search button.btn.btn-default.btn-lg",
+			"#search",
+			"#search button.btn.btn-default.btn-lg",
+			"fa fa-search",
+			"index_name",
+			"->initIndex",
+			"require __DIR__ . '/vendor/autoload.php';\n",
+			"require __DIR__ . '/vendor/autoload.php';\nrequire __DIR__ . '/vendor/autoload.php';\nrequire __DIR__ . '/vendor/autoload.php';\nrequire __DIR__ . '/vendor/autoload.php';",
+			"// composer autoload",
+			"#tabs_info",
+			"col-sm-7 product_left",
+			"price_section_inner",
+			"aria-hidden=\"true\"",
+			"class=\"header_outer\"",
+			"id=\"input-captcha\"",
+			"Our Location",
+			"Logout",
+			"Recurring payments",
+			"class=\"list-group-item\"",
+			".custom-logo",
+			"2017/05",
+			"06",
+			"atzoom",
+			"thumbnail elevatezoom-gallery",
+			" info@demo.com",
+			"Contact us on 123 4",
+			"Icon-1.png",
+			"info",
+			"Consultant",
+			"Store",
+			"bollywood",
+			"http://preview.themeforest.net/item/responsive-multipurpose-opencart-theme/full_screen_preview/19483644?_ga=2.57000360.302229539.1502170814-2004636982.1500531187",
+			"royal",
+			"info@nova",
+			"Options",
+			"mod_headers",
+			"categories",
+			"$categories",
+			"class=\"category-li category-active\"",
+			"class=\"category-li category-active active\"",
+			"Home",
+			"panel-heading",
+			"CATEGORIES",
+			"getImagePath",
+			"md5",
+			"sha",
+			"md5",
+			"novakhome",
+			"carousel_script_tag",
+			"section1_id",
+			"owl",
+			"product_id",
+			"select_product",
+			"category_id",
+			"preview_form",
+			"imagecreatefromjpeg",
+			"$img_r",
+			"imagecreatefrompng",
+			"jpg",
+			"=\"/image/catalog/demo/homepage/sofa.jpg",
+			"/image/catalog/demo/homepage/sofa.jpg",
+			"cropperHeader",
+			"text2",
+			"id=\"",
+			"id=",
+			"imgW",
+			"Contact Us</a>",
+			"<h5>Extras</h5>",
+			"id=\"logo\"",
+			"Contact Us</a>",
+			"col-sm-3 footer-column hb-animate-element left-to-right footer-extras hb-in-viewport",
+			"[L]",
+			"ReWriteRule",
+			"RewriteRule",
+			"ReWriteRule",
+			"Back</a>",
+			"class=\"btn btn-primary\"",
+			"Back",
+			"product-thumb row",
+			"category-products",
+			"#flash-msg-box",
+			"function add(",
+			"cart.add",
+			"flash-msg-box"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n",
+			"Designer",
+			"Consultant",
+			"bollywoodfurniture",
+			"section1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/components/video_detail.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								101,
+								101
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 993,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								548,
+								548
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 126.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/components/search_bar.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 622,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								588,
+								588
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/components/video_list.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106,
+								106
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "style/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								319,
+								319
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/components/video_list_item.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.paneltranformations":
+	{
+		"height": 142.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "reduxss.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"catalog/view/theme/furniturestore/template/common/footer.tpl",
+				"catalog/view/theme/furniturestore/template/common/footer.tpl"
+			],
+			[
+				"atsty",
+				"catalog/view/theme/furniturestore/stylesheet/atstyle.css"
+			],
+			[
+				"astyle",
+				"catalog/view/theme/furniturestore/stylesheet/atstyle.css"
+			],
+			[
+				"sty",
+				"catalog/view/theme/default/stylesheet/stylesheet.css"
+			],
+			[
+				"catalog/view/theme/furniturestore/template/common/home.tpl",
+				"catalog/view/theme/furniturestore/template/common/home.tpl"
+			],
+			[
+				"atsyl",
+				"catalog/view/theme/furniturestore/stylesheet/atstyle.css"
+			],
+			[
+				"atsyle",
+				"backup/atstyle.css"
+			],
+			[
+				"comm",
+				"catalog/view/javascript/common.js"
+			],
+			[
+				"common.js",
+				"catalog/view/javascript/common.js"
+			],
+			[
+				"atstyle",
+				"catalog/view/theme/furniturestore/stylesheet/atstyle.css"
+			],
+			[
+				"atstyle.css",
+				"catalog/view/theme/furniturestore/stylesheet/atstyle.css"
+			],
+			[
+				"catalog/view/theme/furniturestore/template/common/header.tpl",
+				"catalog/view/theme/furniturestore/template/common/header.tpl"
+			],
+			[
+				"styles",
+				"catalog/view/theme/furniturestore/stylesheet/atstyle.css"
+			],
+			[
+				"commo",
+				"catalog/view/javascript/common.js"
+			],
+			[
+				"style",
+				"catalog/view/theme/default/stylesheet/stylesheet.css"
+			],
+			[
+				"error.log",
+				"system/storage/logs/error.log"
+			],
+			[
+				"system/library/cache/file.php",
+				"system/library/cache/file.php"
+			],
+			[
+				"styleshee",
+				"catalog/view/theme/OPC011/stylesheet/stylesheet.css"
+			],
+			[
+				"application/libraries/general.php",
+				"application/libraries/General.php"
+			],
+			[
+				"cart.js",
+				"assets/app/js/cart.js"
+			],
+			[
+				"account",
+				"assets/app/js/account.js"
+			],
+			[
+				"account.js",
+				"assets/app/js/account.js"
+			],
+			[
+				"ajax",
+				"application/controllers/Ajax.php"
+			],
+			[
+				"server",
+				"assets/server.js"
+			],
+			[
+				"application/config/database.php",
+				"application/config/database.php"
+			],
+			[
+				"admin_ajax",
+				"application/controllers/Admin_ajax.php"
+			],
+			[
+				"admin.js",
+				"views/admin/dist/js/admin.js"
+			],
+			[
+				"product.css",
+				"assets/app/css/products.css"
+			],
+			[
+				"myc",
+				"application/core/MY_Controller.php"
+			],
+			[
+				"",
+				"assets/server.js"
+			],
+			[
+				"assets/app/css/products.css",
+				"assets/app/css/products.css"
+			],
+			[
+				"prodcuts",
+				"views/products.php"
+			],
+			[
+				"products",
+				"application/controllers/Products.php"
+			],
+			[
+				"partials/main_menu.php",
+				"views/partials/main_menu.php"
+			],
+			[
+				"header",
+				"views/partials/header.php"
+			],
+			[
+				"views/admin/dist/js/admin.js",
+				"views/admin/dist/js/admin.js"
+			],
+			[
+				"application/controllers/admin.php",
+				"application/controllers/Admin.php"
+			],
+			[
+				"views/partials/header.php",
+				"views/partials/header.php"
+			],
+			[
+				"application/models/designers_model.php",
+				"application/models/Designers_model.php"
+			],
+			[
+				"chat.js",
+				"assets/app/js/chat.js"
+			],
+			[
+				"ajax.php",
+				"application/controllers/Ajax.php"
+			],
+			[
+				"assets/app/js/designer.js",
+				"assets/app/js/designer.js"
+			],
+			[
+				"application/config/config.php",
+				"application/config/config.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 438.0,
+		"last_filter": "bol",
+		"selected_items":
+		[
+			[
+				"bol",
+				"/var/www/html/bollywood-furniture-app/bf-app.sublime-project"
+			],
+			[
+				"",
+				"/var/www/html/tryangular/tryangular.sublime-project"
+			],
+			[
+				"dev",
+				"/var/www/html/furnituredekho/assets/app/js/vendor/dev-fd.sublime-project"
+			],
+			[
+				"tr",
+				"/var/www/html/tryangular/tryangular.sublime-project"
+			],
+			[
+				"me",
+				"/var/www/html/me/me.sublime-project"
+			]
+		],
+		"width": 333.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
